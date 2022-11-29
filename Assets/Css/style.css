@@ -1,0 +1,97 @@
+/*   section heroImg   */
+
+.heroImgSection{
+	padding:60px 0 105px;
+	background-color: #fcdb00;
+}
+.logo{
+	height:48px;
+	display:inline-block;
+}
+.navbar ul{
+	display:inline-block;
+}
+.navbar li{
+	display:inline-block;
+	margin-right:35px;
+} 
+.navbar li:last-child{
+	margin-right:0;
+}
+	
+.navbar li a{
+	padding: 18px;
+	font-size:22px;
+	font-weight:bold;
+	color:#010101;
+	text-transform:capitalize;
+	text-decoration:none;
+	height:48px;
+    display:inline-block;
+	line-height:48px;
+}
+.ipad{
+	margin-left:35px;
+}
+.brandList li {
+	display:inline-block;
+	margin-right:38px;
+}
+.inspire{
+	margin-top:70px;
+}
+.brandList li i{
+	font-size:50px;
+	color:#010101;
+}
+
+/* -------feature section css starts------------*/
+
+.featureSection{
+	padding:120px 0 160px;
+} 
+.thumbnail{
+	margin-bottom:90px;
+}
+.thumbHeading{
+	color:#010101;
+	font-size:22px;
+	font-weight:bold;
+	margin-bottom:15px;
+}
+.thumbPara{
+	font-size:16px;
+	color:#898989;
+}
+.thumbIcon i {
+	font-size:42px;
+}
+	
+	/*--------------------------------Footer Section css starts-----------------*/
+	
+.footerSection{
+	padding:90px 0 140px;
+	background-color:#010101;
+}
+.socialIcons{
+	margin-bottom:135px;
+}
+.socialIcons li{
+	display:inline-block;
+	margin-right:30px;
+}
+.socialIcons li i{
+	font-size:35px;
+	color:#fcdb00;
+}
+.footerLink li, .footerlink li a{
+	color:#fff;
+	font-size:16px;
+}
+.firstcap li a{
+    text-transform:capitalize;
+	color:#fff;
+}	
+	
+	
+	
